@@ -1,0 +1,10 @@
+{
+  "description": "Compare products effortlessly by analyzing descriptions, reviews, and prices side-by-side, while an AI chat assistant helps refine your choices.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
